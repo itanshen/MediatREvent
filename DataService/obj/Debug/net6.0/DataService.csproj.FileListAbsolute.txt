@@ -12,3 +12,17 @@ C:\Users\Administrator\source\repos\DataService\obj\Debug\net6.0\refint\DataServ
 C:\Users\Administrator\source\repos\DataService\obj\Debug\net6.0\DataService.pdb
 C:\Users\Administrator\source\repos\DataService\obj\Debug\net6.0\DataService.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\DataService\obj\Debug\net6.0\ref\DataService.dll
+C:\Users\Administrator\source\repos\MediatREvent\DataService\bin\Debug\net6.0\DataService.deps.json
+C:\Users\Administrator\source\repos\MediatREvent\DataService\bin\Debug\net6.0\DataService.runtimeconfig.json
+C:\Users\Administrator\source\repos\MediatREvent\DataService\bin\Debug\net6.0\DataService.dll
+C:\Users\Administrator\source\repos\MediatREvent\DataService\bin\Debug\net6.0\DataService.pdb
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\DataService.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\DataService.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\DataService.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\DataService.dll
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\refint\DataService.dll
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\DataService.pdb
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\DataService.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\MediatREvent\DataService\obj\Debug\net6.0\ref\DataService.dll

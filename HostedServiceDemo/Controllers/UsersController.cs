@@ -33,8 +33,6 @@ namespace HostedServiceDemo.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<User>>> GetUsers()
         {
-            //不要写成Send
-            await mediator.Publish(new PublishEvent("消息"+DateTime.Now.ToString("yyyyMMdd")));
             if (_context.Users == null)
             {
                 return NotFound();
